@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "愛の花",
   "base_artist": "あいみょん",
-  "createdAt": "2025-12-02T14:09:56.200109Z",
+  "createdAt": "2026-03-27T12:27:33.999534Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -51,6 +51,24 @@
       "artist": "あいみょん",
       "has_synced": false,
       "path": "select/pl_01_愛の花_あいみょん.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "愛の花",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/localdb_01_愛の花_あいみょん.lrc",
+      "repo_name": "JuyQQUqD64c"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "愛の花",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/localdb_02_愛の花_あいみょん.lrc",
+      "repo_name": "g_DIzb_h6Z0"
     }
   ]
 }
